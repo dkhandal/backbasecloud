@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="2" name="Failed suite [ShopStarTestAutomation Suite]" guice-stage="DEVELOPMENT" verbose="2">
+  <test thread-count="2" name="AccountBasket(failed)" verbose="2">
+    <classes>
+      <class name="com.sarvika.ShopStarTestAutomation.AccountBasket">
+        <methods>
+          <include name="testLogout"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.sarvika.ShopStarTestAutomation.AccountBasket -->
+    </classes>
+  </test> <!-- AccountBasket(failed) -->
+</suite> <!-- Failed suite [ShopStarTestAutomation Suite] -->

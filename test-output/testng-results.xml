@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[DisplayPaginatedList started]]>
+    </line>
+    <line>
+      <![CDATA[Feed Url qa1 get Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Feed Url lalalala get Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Feed Url lalalala get Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Feed Url naresh get Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Feed Url suresh get Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Feed Url desmondbahringer71 get Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Feed Url bert51 get Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Feed Url glennatorp61 get Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Feed Url marlonklocko19 get Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Feed Url webstergoyette5 get Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Feed Url desmondbahringer71 get Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Feed Url brauliogleichner22 get Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Feed Url glennatorp61 get Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Driver Closed After Testing]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2021-06-27T01:53:19 IST" name="Default suite" finished-at="2021-06-27T01:54:47 IST" duration-ms="87828">
+    <groups>
+    </groups>
+    <test started-at="2021-06-27T01:53:19 IST" name="Default test" finished-at="2021-06-27T01:54:47 IST" duration-ms="87828">
+      <class name="com.selenium.docker.DisplayPaginatedList">
+        <test-method is-config="true" signature="beforeDisplayPaginatedList()[pri:0, instance:com.selenium.docker.DisplayPaginatedList@140c9f39]" started-at="2021-06-27T01:53:19 IST" name="beforeDisplayPaginatedList" finished-at="2021-06-27T01:53:23 IST" duration-ms="3705" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[DisplayPaginatedList started]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeDisplayPaginatedList -->
+        <test-method signature="testDisplayPaginatedList()[pri:0, instance:com.selenium.docker.DisplayPaginatedList@140c9f39]" started-at="2021-06-27T01:53:23 IST" name="testDisplayPaginatedList" finished-at="2021-06-27T01:54:36 IST" duration-ms="73157" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Feed Url qa1 get Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Feed Url lalalala get Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Feed Url lalalala get Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Feed Url naresh get Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Feed Url suresh get Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Feed Url desmondbahringer71 get Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Feed Url bert51 get Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Feed Url glennatorp61 get Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Feed Url marlonklocko19 get Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Feed Url webstergoyette5 get Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Feed Url desmondbahringer71 get Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Feed Url brauliogleichner22 get Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Feed Url glennatorp61 get Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testDisplayPaginatedList -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.selenium.docker.DisplayPaginatedList@140c9f39]" started-at="2021-06-27T01:54:36 IST" name="tearDown" finished-at="2021-06-27T01:54:47 IST" duration-ms="10907" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Driver Closed After Testing]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.selenium.docker.DisplayPaginatedList -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
