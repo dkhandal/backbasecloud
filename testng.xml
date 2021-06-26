@@ -1,89 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite thread-count="2" verbose="2" name="DockerSelenium Suite" annotations="JDK"> <!--  parallel="tests" -->
- <test name="LoginSuccess">
+<suite thread-count="2" verbose="2" name="Backbaasecloud Suite" annotations="JDK"> <!--  parallel="tests" -->
+ <test name="BackbaseCloud">
     <classes>
-      <class name="com.selenium.docker.LoginSuccess"/>
+      <class name="com.selenium.backbase.DisplayPaginatedList"/>
     </classes>
    </test>
-    <test name="LoginFailure">
-    <classes>
-      <class name="com.selenium.docker.LoginFailure"/>
-    </classes>
-   </test> 
-   <test name="TestCheckBox">
-    <classes>
-      <class name="com.selenium.docker.TestCheckBox"/>
-    </classes>
-   </test>     
-   <test name="ContextMenu">
-    <classes>
-      <class name="com.selenium.docker.ContextMenu"/>
-    </classes>
-   </test>   
-   <test name="DragAndDrop">
-    <classes>
-      <class name="com.selenium.docker.DragAndDrop"/>
-    </classes>
-   </test>   
-     <test name="DynamicContent">
-    <classes>
-      <class name="com.selenium.docker.DynamicContent"/>
-    </classes>
-   </test>    
-    <test name="DynamicControls">
-    <classes>
-      <class name="com.selenium.docker.DynamicControls"/>
-    </classes>
-   </test> 
-       <test name="DynamicLoading">
-    <classes>
-      <class name="com.selenium.docker.DynamicLoading"/>
-    </classes>
-   </test>  
-       <test name="Download">
-    <classes>
-      <class name="com.selenium.docker.Download"/>
-    </classes>
-   </test>       
-    <test name="Upload">
-    <classes>
-      <class name="com.selenium.docker.Upload"/>
-    </classes>
-   </test>  
-   <test name="FloatingMenu">
-    <classes>
-      <class name="com.selenium.docker.FloatingMenu"/>
-    </classes>
-   </test>   
-   <test name="IFrame">
-    <classes>
-      <class name="com.selenium.docker.IFrame"/>
-    </classes>
-   </test>      
-   <test name="Hover">
-    <classes>
-      <class name="com.selenium.docker.Hover"/>
-    </classes>
-   </test>  
-      <test name="JSAlert">
-    <classes>
-      <class name="com.selenium.docker.JSAlert"/>
-    </classes>
-   </test> 
-      <test name="JScriptError">
-    <classes>
-      <class name="com.selenium.docker.JScriptError"/>
-    </classes>
-   </test>   
-   <test name="TestLinkOpen">
-    <classes>
-      <class name="com.selenium.docker.TestLinkOpen"/>
-    </classes>
-   </test>  
-      <test name="NotificationMsg">
-    <classes>
-      <class name="com.selenium.docker.NotificationMsg"/>
-    </classes>
-   </test>  
 </suite> <!-- Suite -->

@@ -14,52 +14,52 @@
       <![CDATA[Feed Url lalalala get Successfully]]>
     </line>
     <line>
-      <![CDATA[Feed Url naresh get Successfully]]>
+      <![CDATA[Feed Url sssatish4 get Successfully]]>
     </line>
     <line>
       <![CDATA[Feed Url suresh get Successfully]]>
     </line>
     <line>
-      <![CDATA[Feed Url desmondbahringer71 get Successfully]]>
+      <![CDATA[Feed Url bert51 get Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Feed Url rosie24 get Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Feed Url soledadwindler get Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Feed Url glennatorp61 get Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Feed Url rosie24 get Successfully]]>
     </line>
     <line>
       <![CDATA[Feed Url bert51 get Successfully]]>
     </line>
     <line>
-      <![CDATA[Feed Url glennatorp61 get Successfully]]>
-    </line>
-    <line>
-      <![CDATA[Feed Url marlonklocko19 get Successfully]]>
-    </line>
-    <line>
-      <![CDATA[Feed Url webstergoyette5 get Successfully]]>
+      <![CDATA[Feed Url westleykrajcik44 get Successfully]]>
     </line>
     <line>
       <![CDATA[Feed Url desmondbahringer71 get Successfully]]>
     </line>
     <line>
-      <![CDATA[Feed Url brauliogleichner22 get Successfully]]>
-    </line>
-    <line>
-      <![CDATA[Feed Url glennatorp61 get Successfully]]>
-    </line>
-    <line>
       <![CDATA[Driver Closed After Testing]]>
     </line>
   </reporter-output>
-  <suite started-at="2021-06-27T01:53:19 IST" name="Default suite" finished-at="2021-06-27T01:54:47 IST" duration-ms="87828">
+  <suite started-at="2021-06-27T02:04:03 IST" name="Backbaasecloud Suite" finished-at="2021-06-27T02:05:31 IST" duration-ms="88364">
     <groups>
     </groups>
-    <test started-at="2021-06-27T01:53:19 IST" name="Default test" finished-at="2021-06-27T01:54:47 IST" duration-ms="87828">
-      <class name="com.selenium.docker.DisplayPaginatedList">
-        <test-method is-config="true" signature="beforeDisplayPaginatedList()[pri:0, instance:com.selenium.docker.DisplayPaginatedList@140c9f39]" started-at="2021-06-27T01:53:19 IST" name="beforeDisplayPaginatedList" finished-at="2021-06-27T01:53:23 IST" duration-ms="3705" status="PASS">
+    <test started-at="2021-06-27T02:04:03 IST" name="BackbaseCloud" finished-at="2021-06-27T02:05:31 IST" duration-ms="88364">
+      <class name="com.selenium.backbase.DisplayPaginatedList">
+        <test-method is-config="true" signature="beforeDisplayPaginatedList()[pri:0, instance:com.selenium.backbase.DisplayPaginatedList@140c9f39]" started-at="2021-06-27T02:04:03 IST" name="beforeDisplayPaginatedList" finished-at="2021-06-27T02:04:06 IST" duration-ms="3070" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[DisplayPaginatedList started]]>
             </line>
           </reporter-output>
         </test-method> <!-- beforeDisplayPaginatedList -->
-        <test-method signature="testDisplayPaginatedList()[pri:0, instance:com.selenium.docker.DisplayPaginatedList@140c9f39]" started-at="2021-06-27T01:53:23 IST" name="testDisplayPaginatedList" finished-at="2021-06-27T01:54:36 IST" duration-ms="73157" status="PASS">
+        <test-method signature="testDisplayPaginatedList()[pri:0, instance:com.selenium.backbase.DisplayPaginatedList@140c9f39]" started-at="2021-06-27T02:04:06 IST" name="testDisplayPaginatedList" finished-at="2021-06-27T02:05:20 IST" duration-ms="74390" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Feed Url qa1 get Successfully]]>
@@ -71,45 +71,45 @@
               <![CDATA[Feed Url lalalala get Successfully]]>
             </line>
             <line>
-              <![CDATA[Feed Url naresh get Successfully]]>
+              <![CDATA[Feed Url sssatish4 get Successfully]]>
             </line>
             <line>
               <![CDATA[Feed Url suresh get Successfully]]>
             </line>
             <line>
-              <![CDATA[Feed Url desmondbahringer71 get Successfully]]>
+              <![CDATA[Feed Url bert51 get Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Feed Url rosie24 get Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Feed Url soledadwindler get Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Feed Url glennatorp61 get Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Feed Url rosie24 get Successfully]]>
             </line>
             <line>
               <![CDATA[Feed Url bert51 get Successfully]]>
             </line>
             <line>
-              <![CDATA[Feed Url glennatorp61 get Successfully]]>
-            </line>
-            <line>
-              <![CDATA[Feed Url marlonklocko19 get Successfully]]>
-            </line>
-            <line>
-              <![CDATA[Feed Url webstergoyette5 get Successfully]]>
+              <![CDATA[Feed Url westleykrajcik44 get Successfully]]>
             </line>
             <line>
               <![CDATA[Feed Url desmondbahringer71 get Successfully]]>
             </line>
-            <line>
-              <![CDATA[Feed Url brauliogleichner22 get Successfully]]>
-            </line>
-            <line>
-              <![CDATA[Feed Url glennatorp61 get Successfully]]>
-            </line>
           </reporter-output>
         </test-method> <!-- testDisplayPaginatedList -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.selenium.docker.DisplayPaginatedList@140c9f39]" started-at="2021-06-27T01:54:36 IST" name="tearDown" finished-at="2021-06-27T01:54:47 IST" duration-ms="10907" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.selenium.backbase.DisplayPaginatedList@140c9f39]" started-at="2021-06-27T02:05:20 IST" name="tearDown" finished-at="2021-06-27T02:05:31 IST" duration-ms="10835" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Driver Closed After Testing]]>
             </line>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- com.selenium.docker.DisplayPaginatedList -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+      </class> <!-- com.selenium.backbase.DisplayPaginatedList -->
+    </test> <!-- BackbaseCloud -->
+  </suite> <!-- Backbaasecloud Suite -->
 </testng-results>
